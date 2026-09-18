@@ -1,0 +1,6 @@
+{
+  "name": "Exam OCR Dashboard",
+  "description": "Avtomatlashtirilgan qog'oz imtihonlarni tekshirish va baholash tizimi admin boshqaruv paneli",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
